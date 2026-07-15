@@ -1,0 +1,23 @@
+# --- Entornos virtuales ---
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# --- Configuración sensible / credenciales ---
+.env
+*.env
+secrets.py
+config_local.py
+
+# --- Logs de ejecución ---
+logs/*.log
+
+# --- Sistema operativo / editores ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Otros ---
+*.bak

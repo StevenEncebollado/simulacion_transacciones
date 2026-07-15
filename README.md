@@ -419,4 +419,5 @@ explícitamente los escenarios de falla, concurrencia y latencia, y a
 elegir la herramienta correcta (savepoint, compensación, detección de
 deadlock o timeout) para cada uno de ellos.
 #   s i m u l a c i o n _ t r a n s a c c i o n e s  
+ #   s i m u l a c i o n _ t r a n s a c c i o n e s  
  
